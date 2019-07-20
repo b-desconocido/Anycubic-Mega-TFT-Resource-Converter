@@ -24,7 +24,7 @@ Use it at your own risk! It might damage your display, making it unusable, catch
 - edit bitmaps you like to change
 - drag and drop directory containing images you've edited before to "covert.exe"
 - "Resources" folder will apear, containing new BMPDATA.BIN and TABLE.BIN files
-- remove old BMPDATA.BIN and TABLE.BIN, do not turn off the display
+- remove old BMPDATA.BIN and TABLE.BIN, do not turn off the display. **Do not remove ASC24DOT.BIN**
 - copy new BMPDATA.BIN and TABLE.BIN files from resource directory onto your display. **IT MIGHT TAKE A WHILE, PLEASE, BE PATIENT AND WAIT UNTIL FILES ARE COPIED. DO NOT TURN OFF THE DISPLAY UNTIL FILES ARE COPIED!**
 - re-plug the display and enjoy chages you've made
 
