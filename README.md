@@ -29,4 +29,4 @@ Use it at your own risk! It might damage your display, making it unusable, catch
 - re-plug the display and enjoy chages you've made
 
 # Binaries
-You can get executable [here](https://github.com/b-desconocido/Anycubic-Mega-TFT-Resource-Converter/releases/download/0.1/Release.7z)
+You can get executable [here](https://github.com/b-desconocido/Anycubic-Mega-TFT-Resource-Converter/releases/download/0.1.1/Release.7z)
