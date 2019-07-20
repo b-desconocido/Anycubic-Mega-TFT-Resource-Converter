@@ -5,6 +5,8 @@ This tool converts BMPDATA.BIN and TABLE.BIN to BMP images and vise versa. It al
 - modify backgorunds
 - create "themes"
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/awsmliBWBBg/0.jpg)](https://youtu.be/awsmliBWBBg "Proof of concept")
+
 # Limitations
 - only working with 03 version of display
 - the maximum size of embedded flash accessible through USB ia around 3.5MB. Although it might report 16MB, actual chip size is 4MB
