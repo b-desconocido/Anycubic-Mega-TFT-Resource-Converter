@@ -1,6 +1,6 @@
 # Anycubic-Mega-TFT-Resource-Converter
 
-This tool converts BMPDATA.BIN and TABLE.BIN to TMP images and vise versa. It allows you to edit images on Anycubic i3 Mega / Mega-S TFT display:
+This tool converts BMPDATA.BIN and TABLE.BIN to BMP images and vise versa. It allows you to edit images on Anycubic i3 Mega / Mega-S TFT display:
 - add translation
 - modify backgorunds
 - create "themes"
