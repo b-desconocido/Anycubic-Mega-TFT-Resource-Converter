@@ -113,7 +113,8 @@ namespace convert
                     catch (Exception ex)
                     {
                         Console.WriteLine($"ERROR! Failed to compress a file {file.Path}!{Environment.NewLine}{ex}");
-                        break; ;
+                        result = false;
+                        break;
                     }
                 }
             }
